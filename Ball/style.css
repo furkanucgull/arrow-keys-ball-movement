@@ -1,0 +1,15 @@
+#btnUp{
+    margin-left: 52px;
+    margin-bottom: 5px;
+}
+#btnStop{
+    margin-left: 100px;
+}
+.ballArea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttonArea{
+    background-color: aqua;
+}
